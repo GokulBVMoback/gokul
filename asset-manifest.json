@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/gokul/static/css/main.1ec20b28.css",
+    "main.js": "/gokul/static/js/main.10d64daa.js",
+    "static/js/787.475ade9f.chunk.js": "/gokul/static/js/787.475ade9f.chunk.js",
+    "static/media/about.jpg": "/gokul/static/media/about.578f57d11227e684f130.jpg",
+    "static/media/Gokul_resume.pdf": "/gokul/static/media/Gokul_resume.f13a4a03c44e9c89791f.pdf",
+    "static/media/1676545968383.jpg": "/gokul/static/media/1676545968383.8ddfd1bba060bce86b6d.jpg",
+    "static/media/1676554248410.jpg": "/gokul/static/media/1676554248410.c3fc762992c2ae578815.jpg",
+    "index.html": "/gokul/index.html",
+    "main.1ec20b28.css.map": "/gokul/static/css/main.1ec20b28.css.map",
+    "main.10d64daa.js.map": "/gokul/static/js/main.10d64daa.js.map",
+    "787.475ade9f.chunk.js.map": "/gokul/static/js/787.475ade9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ec20b28.css",
+    "static/js/main.10d64daa.js"
+  ]
+}
