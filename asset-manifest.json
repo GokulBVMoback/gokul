@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gokul/static/css/main.f3e416e7.css",
-    "main.js": "/gokul/static/js/main.e3af7111.js",
+    "main.js": "/gokul/static/js/main.eefcf8dc.js",
     "static/js/787.475ade9f.chunk.js": "/gokul/static/js/787.475ade9f.chunk.js",
     "static/media/about.jpg": "/gokul/static/media/about.578f57d11227e684f130.jpg",
     "static/media/Gokul_resume.pdf": "/gokul/static/media/Gokul_resume.f13a4a03c44e9c89791f.pdf",
@@ -9,11 +9,11 @@
     "static/media/1676554248410.jpg": "/gokul/static/media/1676554248410.c3fc762992c2ae578815.jpg",
     "index.html": "/gokul/index.html",
     "main.f3e416e7.css.map": "/gokul/static/css/main.f3e416e7.css.map",
-    "main.e3af7111.js.map": "/gokul/static/js/main.e3af7111.js.map",
+    "main.eefcf8dc.js.map": "/gokul/static/js/main.eefcf8dc.js.map",
     "787.475ade9f.chunk.js.map": "/gokul/static/js/787.475ade9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3e416e7.css",
-    "static/js/main.e3af7111.js"
+    "static/js/main.eefcf8dc.js"
   ]
 }
