@@ -44,7 +44,7 @@ const About = () => {
         </table>
         </center>
         <div className='backbutton'>
-        <Link to="/" ><button className='back'>Back</button></Link>
+        <Link to="/gokul" ><button className='back'>Back</button></Link>
         </div>
         </div>
       </Element>
